@@ -26,10 +26,3 @@ To run this notebook, you need to have the following installed:
    ```
 2. Execute the cells sequentially to follow along with the content.
 3. Modify the code as needed to experiment and learn.
-
-## License
-This notebook is for educational purposes only. Feel free to modify and use it for learning Python.
-
-## Author
-Mario Trianto
-
